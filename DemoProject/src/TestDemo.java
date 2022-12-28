@@ -4,5 +4,6 @@ public class TestDemo {
 		
 		System.out.println("A");
 		System.out.println("");
+		System.out.println("C");
 	}
 }
